@@ -1,0 +1,2 @@
+interface Decorator extends Confectionery {
+}
